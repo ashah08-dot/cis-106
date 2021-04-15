@@ -16,6 +16,6 @@ work.
 * **FreeBSD** is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
 ![FreeBSD Logo](/Downloads/freebsd-1.svg)
 * **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England. 
-![RISC OS Logo](/Downloads/risc os.png)
+![RISC OS Logo](/Downloads/riscos.png)
 
 
