@@ -19,9 +19,19 @@
 
 
 **Question 4**
+![Answer4.1,2](../imgs/MTque4.1,2.png)
+![Answer4.2](../imgs/MTque4.2.png)
+![Answer4.3](../imgs/MTque4.3.png)
+
 
 
 **Question 5**
+![Answer5.1,2,4](../imgs/MTque5.1,2,4.png)
+![Answer5.5,6,7](../imgs/MTque5.5,6,7.png)
+![Answer5.8](../imgs/MTque5.8.png)
+![Answer5.9](../imgs/MTque5.9.png)
+![Answer5.10](../imgs/MTque5.10.png)
+
 
 **Question 6**
 ![Answer6](../imgs/MTque6.png)
